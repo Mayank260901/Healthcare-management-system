@@ -60,10 +60,10 @@ HospitalManagementSystem/
 - **`app/`**: Main entry point for the application (`HospitalApp.java`).
 - **`config/`**: Contains configuration files, such as Hibernate setup and backup service.
 - **`dao/`**: DAO interfaces and implementations for managing database operations.
-- **`exception/`**: Custom exception classes and a global exception handler.
+- **`exception/`**: Custom exception classes and a global exception handler .
 - **`model/`**: Contains all entity classes and enums.
 - **`service/`**: Service layer for business logic.
-- **`util/`**: Utility classes like encryption and CSV export.
+- **`util/`**: Utility classes like encryption and CSV export .
 - **`view/`**: Role-based CLI views for interaction.
 
 ## Installation and Setup
